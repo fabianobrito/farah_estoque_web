@@ -1,5 +1,9 @@
-# farah_estoque_web
-Sistema de estoque feito com Node.Js, Express, AngularJs e MySql.
+# farah estoque web
+## Sistema de estoque feito com: 
+- Node.Js
+- Express
+- AngularJs
+- MySql
 
 Para funcionar em seu computador você precisa primeiramente ter o Node.js, Http-server e o bower.js instalados.
 Ao baixar os arquivos você usará os dois projetos contidos no zip de nome prova-axm-master.
